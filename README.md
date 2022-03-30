@@ -19,3 +19,6 @@ Project:
   Solver (at root)
     ./solver/solver path_to_map
     Exemple : ./solver/solver map.txt
+    
+Co-worker:
+  Hugo Fontaine
